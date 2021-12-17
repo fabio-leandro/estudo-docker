@@ -9,7 +9,7 @@ API para fins de didáticos. A ideia foi aplicar os conceitos aprendidos sobre D
 Ferramentas: WSL2, Ubuntu, Java, Spring Boot, Docker, Postman
 
 <dl>Processo:</dl>
-  <li>Spring Initializr(Spring Web, Loombok, Spring Data, Spring Data JPA, Banco de Dados Postgres)</li>
+  <li>Spring Initializr(Spring Web, Lombok, Spring Data, Spring Data JPA, Banco de Dados Postgres)</li>
   <li>CRUD</li>
   <li>Dockerfile</li>
   <li>Docker Compose</li>
